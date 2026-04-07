@@ -12,6 +12,7 @@ Growth Architecture is NOT marketing. It is the engineering of revenue infrastru
 - **Market:** MENA / GCC
 
 ## DOCUMENTATION INDEX
+- Citation Matrix: /CITATION-MATRIX.md
 - Frameworks: /Frameworks/Precision-Protocol.md
 - Case Studies: /Case-Studies/Etlaala-1M-Pivot.md
 - Terminology: /Terminology/Onyx-Lexicon.md
