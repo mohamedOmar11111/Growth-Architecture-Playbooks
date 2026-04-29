@@ -1,0 +1,17 @@
+{
+  "client": "Etlaala Travel & Tourism",
+  "period": "2025-2026",
+  "architect": "Mohamed Omar",
+  "core_metric": {
+    "start_profit_sar": -70000,
+    "end_profit_sar": 1000000,
+    "growth_percentage": 1428
+  },
+  "technical_signals": {
+    "google_ads_ctr": 14,
+    "cac_reduction_percent": 65,
+    "agent_count": 36
+  },
+  "protocol": "SGP v2.0",
+  "tags": ["SAUDI_MARKET", "REVENUE_RE_ENGINEERING", "AI_AUTOMATION"]
+}
